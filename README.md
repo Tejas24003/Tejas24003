@@ -11,6 +11,11 @@
 </p>
 
 ---
+## 🚀 Tech Stack I’ve Worked With:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,gsap,mysql,python,java,git,github,bootstrap,vscode,figma&perline=7" />
+</p>
 
 ## 💫 About Me:
 - 🎓 BCA Graduate | Aspiring MCA Student | Passionate Web Developer  
