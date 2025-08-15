@@ -11,11 +11,6 @@
 </p>
 
 ---
-## 🚀 Tech Stack I’ve Worked With:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,gsap,mysql,python,java,git,github,bootstrap,vscode,figma&perline=7" />
-</p>
 
 ## 💫 About Me:
 - 🎓 BCA Graduate | Aspiring MCA Student | Passionate Web Developer  
@@ -35,17 +30,17 @@
 
 ---
 
-## 💻 Tech Stack:
+## 🚀 Tech Stack I’ve Worked With:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,mysql,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,gsap,mysql,python,java,git,github,bootstrap,vscode,figma&perline=7" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=tokyonight&show_icons=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas24003&theme=tokyonight&show_icons=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas24003&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -60,7 +55,7 @@
 
 ## 📈 Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas24003&theme=react-dark&hide_border=true" />
 </p>
 
 ---
