@@ -6,14 +6,18 @@
 ## 🌐 Connect With Me:
 <p align="start">
   <a href="https://tejas-portfolio-xhjh.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejas24003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 </p>
 
 ---
 
 ## 🚀 Tech Stack I’ve Worked With:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,gsap,mysql,python,java,git,github,bootstrap,vscode,figma&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,gsap,mysql,python,java,git,github,bootstrap,vscode,figma&perline=15" width="100%" />
 </p>
+
 
 ---
 
