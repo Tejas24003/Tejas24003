@@ -8,14 +8,14 @@
 
 
 ## 🌐 Connect With Me:
-<p align="center">
+<p align="start">
   <a href="https://tejas-portfolio-xhjh.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🚀 Tech Stack I’ve Worked With:
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,gsap,mysql,python,java,git,github,bootstrap,vscode,figma&perline=7" />
 </p>
 
@@ -31,11 +31,3 @@
 
 
 
-## 📈 Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas24003&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">✨ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House</p>
