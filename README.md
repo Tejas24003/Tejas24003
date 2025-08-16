@@ -14,6 +14,6 @@
 
 
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas24003&theme=tokyonight&hide_border=true&layout=compact" height="180px"/>
 </p>
